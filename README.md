@@ -6,6 +6,8 @@ The purpose of the code is to create an effective lane marking algorithm that ca
 
 **ENet** was chosen as the algorithm for the purpose becuase it claims to provide the same accuracy as well known models such as FCN and UNet while having 2 orers less of trainabel parameters.
 
+The Research paper for Enet can be found at the link: https://arxiv.org/abs/1606.02147
+
 Two models are created with the same Enet architecture:
 
 -  One is trained on RGB images
