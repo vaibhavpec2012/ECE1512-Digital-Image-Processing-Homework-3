@@ -16,3 +16,9 @@ Two models are created with the same Enet architecture:
 Masks were created by plotting the nodes provided for Bezier Curve in the 'poly2D' key of the Labels Json.
 
 The model was able to achieve a Mean IoU of ~0.7 on the validation and testing set. The Model was evaluated for a video and various images for different working conditions  
+
+Code Files: 
+
+1. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA_V2: Contains the complete upto date code. However, the print command for long model summaries has been ommited. This has been done becuase GitHub removes teh scroll for long prints from a jupyter notebook and prinst the complete information. In case one does not to scroll through that information this version is to be used.
+
+2. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA: Contains the complete upto date code along with the print commands for the long model summaries.
