@@ -17,8 +17,12 @@ Masks were created by plotting the nodes provided for Bezier Curve in the 'poly2
 
 The model was able to achieve a Mean IoU of ~0.7 on the validation and testing set. The Model was evaluated for a video and various images for different working conditions  
 
-Code Files: 
+**Files:** 
 
 1. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA_V2: Contains the complete upto date code. However, the print command for model summaries has been ommited. This has been done because GitHub removes the scroll for displaying long outputs from a jupyter notebook and displays the complete information. In case one does not to want to scroll through that information this version is to be used.
 
 2. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA: Contains the complete upto date code along with the print commands for model summaries.
+
+3. Challenge.mp4: Original Video
+
+4. Output.mp4: Processed Video
