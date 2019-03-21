@@ -19,6 +19,6 @@ The model was able to achieve a Mean IoU of ~0.7 on the validation and testing s
 
 Code Files: 
 
-1. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA_V2: Contains the complete upto date code. However, the print command for long model summaries has been ommited. This has been done becuase GitHub removes teh scroll for long prints from a jupyter notebook and prinst the complete information. In case one does not to scroll through that information this version is to be used.
+1. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA_V2: Contains the complete upto date code. However, the print command for model summaries has been ommited. This has been done because GitHub removes the scroll for displaying long outputs from a jupyter notebook and displays the complete information. In case one does not to want to scroll through that information this version is to be used.
 
-2. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA: Contains the complete upto date code along with the print commands for the long model summaries.
+2. ECE1512_HOMEWORK3-by-VAIBHAV GUPTA: Contains the complete upto date code along with the print commands for model summaries.
