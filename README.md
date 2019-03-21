@@ -25,4 +25,4 @@ The model was able to achieve a Mean IoU of ~0.7 on the validation and testing s
 
 3. Challenge.mp4: Original Video
 
-4. Output.mp4: Processed Video
+4. Output1.mp4: Processed Video
